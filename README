@@ -1,0 +1,15 @@
+This project is an End to End Encryption Forwarder for linux servers.
+This project is only tested on 1 debian server build.
+This project is a boddged together project that needs a lot of improvement.
+This project is a requires lowering the security of a (hopefully throwaway)gmail account to work using gmail (and probably other email providers). 
+SEE: https://myaccount.google.com/lesssecureapps
+This project bypasses most of the normal processes of postfix and emails everything to 1 email address.
+
+To read emails sent from this forwarder or for general emailing 
+properly configure and use one applications listed here:
+
+https://www.openpgp.org/software/
+
+
+This work is licensed under CC BY-SA 4.0. To view a copy of this license, visit 
+https://creativecommons.org/licenses/by-sa/4.0
